@@ -228,6 +228,7 @@
   
   .social-links a:hover::after {
     width: 100%;
+    
   }
   
   footer {
@@ -237,7 +238,7 @@
     padding: 1rem;
     font-size: 0.95rem;
     letter-spacing: 0.5px;
-    
+
   }
 
   .welcome-banner {
