@@ -237,6 +237,7 @@
     padding: 1rem;
     font-size: 0.95rem;
     letter-spacing: 0.5px;
+    
   }
 
   .welcome-banner {
@@ -259,5 +260,5 @@
       opacity: 1;
       transform: translateY(0);
     }
-    
+
   }
